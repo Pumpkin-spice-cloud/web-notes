@@ -1,2 +1,0 @@
-# web-notes
-class notes 
